@@ -1,0 +1,21 @@
+{
+  "name": "log-manager",
+  "version": "1.0.1",
+  "homepage": "https://github.com/vivekbarsagadey/log-manager",
+  "authors": [
+    "Vivek Barsagadey<vivek.bnb@gmail.com>"
+  ],
+  "description": "Log manager in javascript",
+  "keywords": [
+    "log",
+    "manager"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
